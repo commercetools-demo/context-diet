@@ -1,0 +1,8 @@
+{
+  "name": "context-diet",
+  "version": "0.1.0",
+  "description": "At session start, review what is loaded (plugins, MCP servers, connectors, skills, agents) with token estimates, trim it, and set model and effort.",
+  "author": { "name": "Behnam Tehrani" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
