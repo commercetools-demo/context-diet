@@ -5,7 +5,7 @@ Every message re-sends the whole conversation. Smaller conversation = fewer toke
 ## 1. Set up once (2 minutes)
 
 1. In Claude Code type: `/plugin marketplace add commercetools-demo/context-diet`
-2. Then: `/plugin install context-diet@context-diet-local` and restart Claude Code.
+2. Then: `/plugin install context-diet@context-diet` and restart Claude Code.
 3. At the start of a session, press **Review** on the band above the prompt (or type `/diet`), untick plugins and connectors you don't need today, then **Save for this project**.
 
 ## 2. Five habits that save the most
