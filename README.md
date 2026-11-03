@@ -14,6 +14,15 @@ claude --plugin-dir ./context-diet          # try it for one session (hot-reload
 
 Or add the folder as a marketplace and install it (`claude plugin marketplace add <folder>`, then `claude plugin install context-diet`).
 
+## Install for colleagues (two commands inside Claude Code)
+
+```
+/plugin marketplace add commercetools-demo/context-diet
+/plugin install context-diet@context-diet-local
+```
+
+This installs the `/diet` mod and the `context-coach` skill (plain-language help: ask Claude "why is my usage so high?"). See `context-diet-cheatsheet.html` (print to PDF) for the one-page guide.
+
 ## Use
 
 | Command | Effect |

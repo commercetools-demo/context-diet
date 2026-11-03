@@ -1,7 +1,7 @@
 {
   "name": "context-diet",
-  "version": "0.1.0",
-  "description": "At session start, review what is loaded (plugins, MCP servers, connectors, skills, agents) with token estimates, trim it, and set model and effort.",
+  "version": "0.2.0",
+  "description": "Save Claude Code usage: review and trim what is loaded (plugins, MCP servers, connectors, skills, agents), set model and effort, and a plain-language context-coach skill.",
   "author": { "name": "Behnam Tehrani" },
   "license": "MIT",
   "types": "./types/index.d.ts"

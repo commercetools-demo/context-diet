@@ -1,5 +1,5 @@
 {
   "name": "context-diet-local",
   "owner": { "name": "Behnam Tehrani" },
-  "plugins": [{ "name": "context-diet", "source": "./", "description": "Review and trim loaded context at session start; set model and effort." }]
+  "plugins": [{ "name": "context-diet", "source": "./", "description": "Review and trim loaded context at session start; set model and effort; context-coach skill with plain-language usage tips." }]
 }
